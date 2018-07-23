@@ -1,0 +1,1 @@
+copy weights to the clothing_detector directory
