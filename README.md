@@ -9,4 +9,4 @@ Clothes detector, predicting patterns and color together with the clothing categ
 
 <img src="/test_images/image_dress.jpg" width="400" height="400">
 
-<img src="/test_images/image_dress2.jpg" width="400" height="400">
+<img src="/test_images/image_dress2.jpg" width="400" height="550">
