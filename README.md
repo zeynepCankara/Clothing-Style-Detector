@@ -3,6 +3,6 @@ Clothes detector, predicting patterns and color together with the clothing categ
 
 Exemple Detections
 
-![](/test_images/image7.jpg)
+![](/test_images/image7.jpg |  width=100)
 
-![](/images/img_output4.png)
+![](/images/img_output4.jpg |  width=100)
