@@ -1,0 +1,1 @@
+Add the images you want to detect with clothes_detector

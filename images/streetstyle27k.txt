@@ -1,0 +1,1 @@
+Download the streetstyle27k dataset here: http://streetstyle.cs.cornell.edu/#dataset

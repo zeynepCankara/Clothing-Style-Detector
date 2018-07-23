@@ -1,0 +1,1 @@
+Use train_test_splitter.py to crop images from the data  given by: http://streetstyle.cs.cornell.edu/#dataset
